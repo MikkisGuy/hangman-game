@@ -2,7 +2,7 @@
 
 Hangman (Hirsipuu in finnish) project for me to learn React etc.
 
-## Planned features
+## Planned features includes..
 
 * Game host can choose between online or local game
 * Game host can choose someone else to host or toggle automatic rotate after each game
