@@ -1,6 +1,6 @@
 # React Hangman Game
 
-Hangman (Hirsipuu in finnish) project for me to learn React etc.
+Hangman (Hirsipuu in finnish) game project for me to learn React, TypeScript, ASP.NET Core (web API) etc. API specs with Spotlight Studio.
 
 ## Planned features includes..
 
@@ -8,6 +8,7 @@ Hangman (Hirsipuu in finnish) project for me to learn React etc.
 * Game host can choose someone else to host or toggle automatic rotate after each game
 * Room code system for online game
 * Language switcher for UI (english/finnish)
+* Game events logging and display
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
