@@ -1,6 +1,8 @@
-# React Hangman Game
+# Hangman Game
 
 Hangman (Hirsipuu in finnish) game project for me to learn React, TypeScript, ASP.NET Core (web API) etc. API specs with Spotlight Studio.
+
+[Arkkis](https://github.com/Arkkis) is helping me with this project, thanks!
 
 ## Planned features includes..
 
