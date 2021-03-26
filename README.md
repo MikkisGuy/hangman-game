@@ -11,7 +11,4 @@ Hangman (Hirsipuu in finnish) game project for me to learn React, TypeScript, AS
 
 [More in issues](https://github.com/MikkisGuy/hangman-game/issues)
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
